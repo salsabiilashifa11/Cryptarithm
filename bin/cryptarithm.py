@@ -204,7 +204,7 @@ class Cryptarithm:
         self.file_name = self.file_name[:-1]
 
     def read_file(self, file_name):
-        path = "test/" + file_name
+        path = "../test/" + file_name
         f = open(path, 'r')
         lines = f.readlines()
         
