@@ -9,7 +9,7 @@ This program is made to fulfill *IF2211 Strategi Algoritma* class assignment
 ```
   $pip3 install pygame
 ```
-Or for OS specific installation:
+Or for OS specific installation: <br />
 Windows
 ```
   $py -m pip install -U pygame --user
