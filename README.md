@@ -30,10 +30,12 @@ If you don't have the repository yet, clone the repository
 2. Run 'cryptarithm.py'
 3. Select the 'Auto Solve' button
 > At this moment, the 'Play' option is not yet ready
+
 ![Main menu](./assets/1.png)
 
 4. Insert the name of the file to be run, then hit the blue button
 > Test files must be saved in the 'test' folder
+
 ![File read page](./assets/2.png)
 
 5. Wait for the solutions to appear (It may take a while)
