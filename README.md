@@ -1,5 +1,6 @@
 # Cryptarithm using Brute Force
 This program is made to fulfill *IF2211 Strategi Algoritma* class assignment
+Author: Shifa Salsabiila (13519106)
 
 ## Technologies
 * Python - version 3.8
