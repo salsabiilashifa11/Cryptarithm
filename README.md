@@ -1,5 +1,5 @@
 # Cryptarithm using Brute Force
-This program is made to fulfill *IF2211 Strategi Algoritma* class assignment
+This program is made to fulfill *IF2211 Strategi Algoritma* class assignment<br />
 Author: Shifa Salsabiila (13519106)
 
 ## Technologies
