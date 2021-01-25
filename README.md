@@ -42,4 +42,5 @@ If you don't have the repository yet, clone the repository
 ![Output page](./assets/3.png)
 
 6. If the puzzle entered has more than one solution, click Next to navigate through other solutions.
+![Output page](./assets/4.gif)
 
