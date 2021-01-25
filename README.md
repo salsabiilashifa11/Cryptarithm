@@ -1,11 +1,11 @@
 # Cryptarithm using Brute Force
 This program is made to fulfill *IF2211 Strategi Algoritma* class assignment
 
-##Technologies
+## Technologies
 * Python - version 3.8
 * Pygame - version 2.0.1
 
-##Setup
+## Setup
 ```
   $pip3 install pygame
 ```
@@ -19,13 +19,13 @@ MacOS
   $python3 -m pip install -U pygame --user
 ```
 
-##Installation
+## Installation
 If you don't have the repository yet, clone the repository
 ```
   $git clone https://github.com/salsabiilashifa11/Cryptarithm 
 ```
 
-##Executing the Program
+## Executing the Program
 1. On the command line, navigate to the program directory, then to the bin folder.
 2. Run 'cryptarithm.py'
 3. Select the 'Auto Solve' button
