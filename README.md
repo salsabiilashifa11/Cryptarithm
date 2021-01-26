@@ -38,7 +38,7 @@ If you don't have the repository yet, clone the repository
 
 
 ## Screenshots
-![Main menu](./assets/1.png)
-![File read page](./assets/2.png)
-![Output page](./assets/3.png)
-![Output page](./assets/4.gif)
+![Main menu](./assets/main_menu.png)
+![File read page](./assets/file_choosing.png)
+![Output page](./assets/ex1.png)
+![Output page](./assets/ex2.gif)
