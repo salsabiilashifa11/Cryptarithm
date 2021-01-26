@@ -1,7 +1,7 @@
 # Cryptarithm using Brute Force
-This program is made to fulfill ***IF2211 Strategi Algoritma*** class assignment<br />\
-Cryptarithm (or cryptarithmetic) is a puzzle where numeric digits of an arithmetic expression is replaced <br />\
-by a unique letter. The goal is to correctly identify what digit is represented by each letter. <br />\
+This program is made to fulfill ***IF2211 Strategi Algoritma*** class assignment
+Cryptarithm (or cryptarithmetic) is a puzzle where numeric digits of an arithmetic expression is replaced 
+by a unique letter. The goal is to correctly identify what digit is represented by each letter.
 In this specific program, the only accepted arithmetic operation is addition (+). 
 
 ## Author
