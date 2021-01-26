@@ -27,7 +27,7 @@ If you don't have the repository yet, clone the repository
 ```
 
 ## Executing the Program
-1. On the command line, navigate to the program directory, then to the bin folder.
+1. On the command line, navigate to the program directory, then to the src folder.
 2. Run 'cryptarithm.py'
 3. Select the 'Auto Solve' button
 > At this moment, the 'Play' option is not yet ready
