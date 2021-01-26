@@ -37,8 +37,6 @@ If you don't have the repository yet, clone the repository
 6. If the puzzle entered has more than one solution, click Next to navigate through other solutions.
 
 
-## Screenshots
-![Main menu](./assets/main_menu.png)
-![File read page](./assets/file_choosing.png)
-![Output page](./assets/ex1.png)
-![Output page](./assets/ex2.gif)
+## Example
+
+![Output page](./assets/run.gif)
